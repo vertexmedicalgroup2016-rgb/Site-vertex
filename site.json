@@ -19,7 +19,7 @@
       "titre": "Bien préparer son bilan de santé",
       "date": "",
       "texte": "Article à rédiger.",
-      "image": "images/consultation.jpg",
+      "image": "consultation.jpg",
       "lien": ""
     },
     {
@@ -27,7 +27,7 @@
       "titre": "Les documents à réunir avant de partir",
       "date": "",
       "texte": "Article à rédiger.",
-      "image": "images/planification.jpg",
+      "image": "planification.jpg",
       "lien": ""
     },
     {
@@ -35,7 +35,7 @@
       "titre": "Que dire au médecin régulateur ?",
       "date": "",
       "texte": "Article à rédiger.",
-      "image": "images/evacuation.jpg",
+      "image": "evacuation.jpg",
       "lien": ""
     }
   ],
@@ -43,52 +43,52 @@
     {
       "titre": "Chirurgie",
       "sous_titre": "Complexe et réparatrice",
-      "image": "images/chirurgie-bloc.jpg"
+      "image": "chirurgie-bloc.jpg"
     },
     {
       "titre": "Neurochirurgie",
       "sous_titre": "Cerveau, colonne, nerfs",
-      "image": "images/neurochirurgie.jpg"
+      "image": "neurochirurgie.jpg"
     },
     {
       "titre": "Cardiologie",
       "sous_titre": "Interventionnelle et chirurgie cardiaque",
-      "image": "images/cardiologie.jpg"
+      "image": "cardiologie.jpg"
     },
     {
       "titre": "Oncologie",
       "sous_titre": "Diagnostic et traitements ciblés",
-      "image": "images/oncologie.jpg"
+      "image": "oncologie.jpg"
     },
     {
       "titre": "PMA / FIV",
       "sous_titre": "Procréation médicalement assistée",
-      "image": "images/pma-fiv.jpg"
+      "image": "pma-fiv.jpg"
     },
     {
       "titre": "Chirurgie esthétique et plastique",
       "sous_titre": "Esthétique et reconstructrice",
-      "image": "images/esthetique.jpg"
+      "image": "esthetique.jpg"
     },
     {
       "titre": "Orthopédie, ophtalmologie",
       "sous_titre": "Et rééducation",
-      "image": "images/consultation.jpg"
+      "image": "consultation.jpg"
     },
     {
       "titre": "Greffe de cheveux",
       "sous_titre": "FUE, DHI, suivi après intervention",
-      "image": "images/greffe-cheveux.jpg"
+      "image": "greffe-cheveux.jpg"
     },
     {
       "titre": "ORL",
       "sous_titre": "Oreilles, nez, gorge",
-      "image": "images/orl.jpg"
+      "image": "orl.jpg"
     },
     {
       "titre": "Chirurgie pédiatrique",
       "sous_titre": "Chirurgie de l'enfant",
-      "image": "images/chirurgie-pediatrique.jpg"
+      "image": "chirurgie-pediatrique.jpg"
     }
   ]
 }
