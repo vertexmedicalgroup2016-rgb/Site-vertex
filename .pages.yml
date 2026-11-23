@@ -58,3 +58,13 @@ content:
         fields:
           - { name: image, label: "Photo", type: image }
           - { name: legende, label: "Légende", type: string }
+      - name: temoignages
+        label: Témoignages
+        type: object
+        list: true
+        fields:
+          - { name: nom, label: "Nom ou prénom du patient", type: string }
+          - { name: ville, label: "Ville", type: string }
+          - { name: soin, label: "Soin reçu (ex. Chirurgie cardiaque en Tunisie)", type: string }
+          - { name: texte, label: "Témoignage (avec l'accord du patient)", type: text }
+          - { name: photo, label: "Photo (facultative)", type: image }
