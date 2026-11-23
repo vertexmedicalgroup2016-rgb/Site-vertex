@@ -6,7 +6,7 @@ content:
   - name: site
     label: Contenu du site
     type: file
-    path: content/site.json
+    path: site.json
     format: json
     fields:
       - name: contact
