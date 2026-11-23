@@ -44,3 +44,17 @@ content:
           - { name: titre, label: "Nom de la spécialité", type: string }
           - { name: sous_titre, label: "Petite description", type: string }
           - { name: image, label: "Photo", type: image }
+      - name: videos
+        label: Vidéos
+        type: object
+        list: true
+        fields:
+          - { name: titre, label: "Titre de la vidéo", type: string }
+          - { name: lien, label: "Lien YouTube ou Facebook (copiez l'adresse de la vidéo)", type: string }
+      - name: galerie
+        label: Galerie photos
+        type: object
+        list: true
+        fields:
+          - { name: image, label: "Photo", type: image }
+          - { name: legende, label: "Légende", type: string }
