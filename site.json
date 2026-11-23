@@ -1,0 +1,94 @@
+{
+  "contact": {
+    "telephone": "+221 77 120 91 91",
+    "telephone_2": "+221 77 502 22 77",
+    "whatsapp": "+221 77 531 35 24",
+    "email": "vertexmedicalgroup@gmail.com",
+    "adresse": "Immeuble Pasteur, rue Sévère F.X. Bodin, Keurikaw, Rufisque, Sénégal",
+    "tarif_appel": "[x] FCFA",
+    "instagram": "https://www.instagram.com/vertexmedicalgroup",
+    "facebook": "https://www.facebook.com/profile.php?id=61597044832491",
+    "linkedin": "https://www.linkedin.com/in/barbara-z-08b497451",
+    "tiktok": "",
+    "youtube": ""
+  },
+  "whatsapp_cle": "",
+  "actualites": [
+    {
+      "rubrique": "Conseil santé",
+      "titre": "Bien préparer son bilan de santé",
+      "date": "",
+      "texte": "Article à rédiger.",
+      "image": "images/consultation.jpg",
+      "lien": ""
+    },
+    {
+      "rubrique": "Soins à l'étranger",
+      "titre": "Les documents à réunir avant de partir",
+      "date": "",
+      "texte": "Article à rédiger.",
+      "image": "images/planification.jpg",
+      "lien": ""
+    },
+    {
+      "rubrique": "Urgences",
+      "titre": "Que dire au médecin régulateur ?",
+      "date": "",
+      "texte": "Article à rédiger.",
+      "image": "images/evacuation.jpg",
+      "lien": ""
+    }
+  ],
+  "specialites": [
+    {
+      "titre": "Chirurgie",
+      "sous_titre": "Complexe et réparatrice",
+      "image": "images/chirurgie-bloc.jpg"
+    },
+    {
+      "titre": "Neurochirurgie",
+      "sous_titre": "Cerveau, colonne, nerfs",
+      "image": "images/neurochirurgie.jpg"
+    },
+    {
+      "titre": "Cardiologie",
+      "sous_titre": "Interventionnelle et chirurgie cardiaque",
+      "image": "images/cardiologie.jpg"
+    },
+    {
+      "titre": "Oncologie",
+      "sous_titre": "Diagnostic et traitements ciblés",
+      "image": "images/oncologie.jpg"
+    },
+    {
+      "titre": "PMA / FIV",
+      "sous_titre": "Procréation médicalement assistée",
+      "image": "images/pma-fiv.jpg"
+    },
+    {
+      "titre": "Chirurgie esthétique et plastique",
+      "sous_titre": "Esthétique et reconstructrice",
+      "image": "images/esthetique.jpg"
+    },
+    {
+      "titre": "Orthopédie, ophtalmologie",
+      "sous_titre": "Et rééducation",
+      "image": "images/consultation.jpg"
+    },
+    {
+      "titre": "Greffe de cheveux",
+      "sous_titre": "FUE, DHI, suivi après intervention",
+      "image": "images/greffe-cheveux.jpg"
+    },
+    {
+      "titre": "ORL",
+      "sous_titre": "Oreilles, nez, gorge",
+      "image": "images/orl.jpg"
+    },
+    {
+      "titre": "Chirurgie pédiatrique",
+      "sous_titre": "Chirurgie de l'enfant",
+      "image": "images/chirurgie-pediatrique.jpg"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+# Espace administrateur Vertex Medical Group (Pages CMS : https://app.pagescms.org)
+media:
+  input: images
+  output: images
+content:
+  - name: site
+    label: Contenu du site
+    type: file
+    path: content/site.json
+    format: json
+    fields:
+      - name: contact
+        label: Coordonnées
+        type: object
+        fields:
+          - { name: telephone, label: "Numéro d'appel et d'urgence", type: string }
+          - { name: telephone_2, label: "Autre numéro", type: string }
+          - { name: whatsapp, label: "Numéro WhatsApp (reçoit les messages et les formulaires)", type: string }
+          - { name: email, label: "Adresse e-mail (reçoit aussi les formulaires)", type: string }
+          - { name: adresse, label: "Adresse", type: string }
+          - { name: tarif_appel, label: "Tarif de l'appel d'urgence (ex. 200 FCFA)", type: string }
+          - { name: instagram, label: "Lien Instagram", type: string }
+          - { name: facebook, label: "Lien Facebook (vide = caché)", type: string }
+          - { name: linkedin, label: "Lien LinkedIn (vide = caché)", type: string }
+          - { name: tiktok, label: "Lien TikTok (vide = caché)", type: string }
+          - { name: youtube, label: "Lien YouTube (vide = caché)", type: string }
+      - { name: whatsapp_cle, label: "Clé CallMeBot (envoi WhatsApp automatique des formulaires)", type: string }
+      - name: actualites
+        label: Actualités
+        type: object
+        list: true
+        fields:
+          - { name: rubrique, label: "Rubrique (ex. Conseil santé)", type: string }
+          - { name: titre, label: "Titre", type: string }
+          - { name: date, label: "Date", type: string }
+          - { name: texte, label: "Texte", type: text }
+          - { name: image, label: "Photo", type: image }
+          - { name: lien, label: "Lien (vidéo, article complet... facultatif)", type: string }
+      - name: specialites
+        label: Spécialités (galerie)
+        type: object
+        list: true
+        fields:
+          - { name: titre, label: "Nom de la spécialité", type: string }
+          - { name: sous_titre, label: "Petite description", type: string }
+          - { name: image, label: "Photo", type: image }
