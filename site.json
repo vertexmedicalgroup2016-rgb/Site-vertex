@@ -8,35 +8,26 @@
     "tarif_appel": "[x] FCFA",
     "instagram": "https://www.instagram.com/vertexmedicalgroup",
     "facebook": "https://www.facebook.com/profile.php?id=61597044832491",
-    "linkedin": "https://www.linkedin.com/in/barbara-z-08b497451",
-    "tiktok": "",
-    "youtube": ""
+    "linkedin": "https://www.linkedin.com/in/barbara-z-08b497451"
   },
-  "whatsapp_cle": "",
   "actualites": [
     {
       "rubrique": "Conseil santé",
       "titre": "Bien préparer son bilan de santé",
-      "date": "",
       "texte": "Article à rédiger.",
-      "image": "consultation.jpg",
-      "lien": ""
+      "image": "consultation.jpg"
     },
     {
       "rubrique": "Soins à l'étranger",
       "titre": "Les documents à réunir avant de partir",
-      "date": "",
       "texte": "Article à rédiger.",
-      "image": "planification.jpg",
-      "lien": ""
+      "image": "planification.jpg"
     },
     {
       "rubrique": "Urgences",
       "titre": "Que dire au médecin régulateur ?",
-      "date": "",
       "texte": "Article à rédiger.",
-      "image": "evacuation.jpg",
-      "lien": ""
+      "image": "evacuation.jpg"
     }
   ],
   "specialites": [
@@ -91,7 +82,12 @@
       "image": "chirurgie-pediatrique.jpg"
     }
   ],
-  "videos": [],
-  "galerie": [],
-  "temoignages": []
+  "temoignages": [
+    {
+      "nom": "Abdou ",
+      "ville": "Keur massar",
+      "soin": "chururgie ",
+      "texte": "les meilleurs dans ce domaine"
+    }
+  ]
 }
