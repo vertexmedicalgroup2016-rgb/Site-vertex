@@ -8,26 +8,35 @@
     "tarif_appel": "[x] FCFA",
     "instagram": "https://www.instagram.com/vertexmedicalgroup",
     "facebook": "https://www.facebook.com/profile.php?id=61597044832491",
-    "linkedin": "https://www.linkedin.com/in/barbara-z-08b497451"
+    "linkedin": "https://www.linkedin.com/in/barbara-z-08b497451",
+    "tiktok": "",
+    "youtube": ""
   },
+  "whatsapp_cle": "",
   "actualites": [
     {
       "rubrique": "Conseil santé",
       "titre": "Bien préparer son bilan de santé",
+      "date": "",
       "texte": "Article à rédiger.",
-      "image": "consultation.jpg"
+      "image": "consultation.jpg",
+      "lien": ""
     },
     {
       "rubrique": "Soins à l'étranger",
       "titre": "Les documents à réunir avant de partir",
+      "date": "",
       "texte": "Article à rédiger.",
-      "image": "planification.jpg"
+      "image": "planification.jpg",
+      "lien": ""
     },
     {
       "rubrique": "Urgences",
       "titre": "Que dire au médecin régulateur ?",
+      "date": "",
       "texte": "Article à rédiger.",
-      "image": "evacuation.jpg"
+      "image": "evacuation.jpg",
+      "lien": ""
     }
   ],
   "specialites": [
@@ -80,14 +89,24 @@
       "titre": "Chirurgie pédiatrique",
       "sous_titre": "Chirurgie de l'enfant",
       "image": "chirurgie-pediatrique.jpg"
+    },
+    {
+      "titre": "Pied diabétique",
+      "sous_titre": "Soins des plaies et prévention",
+      "image": "pied-diabetique.jpg"
+    },
+    {
+      "titre": "Brûlures",
+      "sous_titre": "Soins spécialisés et greffes de peau",
+      "image": "brulures.jpg"
+    },
+    {
+      "titre": "Problèmes de cicatrisation",
+      "sous_titre": "Plaies chroniques et cicatrices",
+      "image": "cicatrisation.jpg"
     }
   ],
-  "temoignages": [
-    {
-      "nom": "Abdou ",
-      "ville": "Keur massar",
-      "soin": "chururgie ",
-      "texte": "les meilleurs dans ce domaine"
-    }
-  ]
+  "videos": [],
+  "galerie": [],
+  "temoignages": []
 }
